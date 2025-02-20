@@ -18,17 +18,9 @@ package VISTA;
 import MODELO.Class3;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Propietario
- */
 public class Main3 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
         
         //Variables de entrada
         int primerParcial, segundoParcial, examenFinal;

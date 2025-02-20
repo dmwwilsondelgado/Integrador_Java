@@ -7,15 +7,9 @@ package VISTA;
 import MODELO.Class10;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Propietario
- */
+
 public class Main10 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
         //Datos de entrada, dos numeros

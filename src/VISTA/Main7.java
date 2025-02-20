@@ -7,15 +7,8 @@ package VISTA;
 import MODELO.Class7;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Propietario
- */
-public class Main7 {
 
-    /**
-     * @param args the command line arguments
-     */
+public class Main7 {
     public static void main(String[] args) {
         // TODO code application logic here
         

@@ -8,15 +8,8 @@ culminar el algoritmo.
 package VISTA;
 import MODELO.Class1;
 import javax.swing.JOptionPane;
-/**
- *
- * @author Propietario
- */
-public class Main1 {
 
-    /**
-     * @param args the command line arguments
-     */
+public class Main1 {
     public static void main(String[] args) {
         // TODO code application logic here
         

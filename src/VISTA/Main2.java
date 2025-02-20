@@ -8,15 +8,8 @@ package VISTA;
 import MODELO.Class2;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Propietario
- */
-public class Main2 {
 
-    /**
-     * @param args the command line arguments
-     */
+public class Main2 {
     public static void main(String[] args) {
         // TODO code application logic here
         

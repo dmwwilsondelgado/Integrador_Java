@@ -11,15 +11,8 @@ package VISTA;
 import MODELO.Class4;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Propietario
- */
-public class Main4 {
 
-    /**
-     * @param args the command line arguments
-     */
+public class Main4 {
     public static void main(String[] args) {
         // TODO code application logic here
         

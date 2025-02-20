@@ -8,10 +8,6 @@ package VISTA;
 import MODELO.Class5;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Propietario
- */
 public class Main5 {
 
     /**
